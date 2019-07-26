@@ -230,6 +230,10 @@ $selectionColor: #fff;
 	word-wrap: normal;
 }
 
+.reveal .line-number {
+	color: rgba(255,255,255,0.2);
+}
+
 .reveal table {
 	margin: auto;
 	border-collapse: collapse;
