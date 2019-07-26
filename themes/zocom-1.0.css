@@ -179,14 +179,13 @@ body {
 .reveal pre {
   display: block;
   position: relative;
-  max-width: 70vw;
+  max-width: 60vw;
   margin: 2.4rem auto;
   text-align: left;
-  font-size: .75em;
+  font-size: 1em;
   font-family: monospace;
-  line-height: 1.2em;
+  line-height: 1.25em;
   word-wrap: break-word;
-  background: rgba(255, 255, 255, 0.25);
 }
 
 .reveal code {
