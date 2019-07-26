@@ -61,7 +61,7 @@ body {
 
 .reveal h1 {
   font-size: 2.5em;
-  font-weight: 900;
+  font-weight: 900 !important;
 }
 
 .reveal h2 {
