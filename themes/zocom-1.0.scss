@@ -210,11 +210,10 @@ $selectionColor: #fff;
 	position: relative;
 	max-width: 70vw;
 	margin: $blockMargin auto;
-
 	text-align: left;
-	font-size: 1em;
+	font-size: .75em;
 	font-family: $codeFont;
-	line-height: 1.6em;
+	line-height: 1.3em;
 	word-wrap: break-word;
 }
 

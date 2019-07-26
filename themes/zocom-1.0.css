@@ -181,9 +181,9 @@ body {
   max-width: 70vw;
   margin: 2.4rem auto;
   text-align: left;
-  font-size: 1em;
+  font-size: .75em;
   font-family: monospace;
-  line-height: 1.6em;
+  line-height: 1.3em;
   word-wrap: break-word;
 }
 
