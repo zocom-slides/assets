@@ -185,6 +185,7 @@ body {
   font-family: monospace;
   line-height: 1.3em;
   word-wrap: break-word;
+  background: rgba(255, 255, 255, 0.25);
 }
 
 .reveal code {
@@ -194,7 +195,7 @@ body {
 
 .reveal pre code {
   display: block;
-  padding: 5px;
+  padding: .5rem;
   overflow: auto;
   max-height: 400px;
   word-wrap: normal;
